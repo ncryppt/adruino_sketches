@@ -1,4 +1,4 @@
-#define LED 13
+#define LED 13 // defines digital pin 13 as LED 
 void setup() {
  
   pinMode(LED, OUTPUT); // sets digital pin output
