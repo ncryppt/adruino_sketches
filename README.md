@@ -3,7 +3,7 @@
 This is my arduino repo where I am documenting my learning. Feel free to use my code & projects in this repo. Below I will explain each individual file. 
 Note these are programs made to run on arduino devices on the arduino IDE. The programs running on the device's are reffered to as "sketches" in the arduino community.
 
-I am using a Arduino Uno R3 board. These files should work on all Arduino devices. Note pin placement & numbers may vary.
+I am using a Arduino Uno R3 board. These files should work on all Arduino devices. _Note pin placement & numbers may vary_
 
 ## Contents
 
