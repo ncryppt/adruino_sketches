@@ -12,8 +12,8 @@ I am using a Arduino Uno R3 board. These files should work on all Arduino device
 
 ### 1- BLINK SIMPLE
 
-This sketch is a great first sketch to do. Simply plug a LED (2 prong +/-) into digital port 13 (long end) and the short end into the digital ground. 
-Then plug the arduino board via USB & access Arduino IDE on your computer. Paste the blink_simple.ino code into the IDE, click verify & then upload.
+This sketch is a great first sketch to do. Simply plug a long end (+) of LED into digital port 13 and the short end (-) into the digital ground. 
+Then plug the arduino board via USB & access Arduino IDE on your computer. Paste the _blink_simple.ino_ code into the IDE, click verify & then upload.
 Your LED should be blinking!
 
 ![Screenshot 2023-11-16 at 5 39 14 PM](https://github.com/ncryppt/arduino/assets/66481391/3b97f185-8873-4dd4-8acd-44967b679b7d)
